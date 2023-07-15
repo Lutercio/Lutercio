@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning ML frameworks for Python
   <br>
 
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/LuterKinggg">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=LuterKinggg&layout=compact&show_icons=true&theme=dark">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuterKinggg&layout=compact&language_count=16&theme=dark">
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align=center height=50em width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align=center height=50em width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align=center height=50em width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
